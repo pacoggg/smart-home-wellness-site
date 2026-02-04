@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pacoggg.github.io/smart-home-wellness-site/sitemap.xml
