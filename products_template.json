@@ -1,0 +1,12 @@
+[
+    {
+        "asin": "B0G34CX52X",
+        "title": "Nombre del Producto (Ej: Freidora de Aire Cecotec 6L)",
+        "description": "Breve descripción gancho (Ej: Cocina sin aceite, 1700W, Panel Táctil)",
+        "price_now": "119,93€",
+        "price_old": "199,89€",
+        "discount_label": "OFERTA FLASH / -40% / AHORRA 80€",
+        "category": "hogar / bienestar / mascotas",
+        "image_description": "Descripción para que yo genere la imagen (Ej: Freidora negra brillante moderna en cocina blanca)"
+    }
+]
